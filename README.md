@@ -1,2 +1,2 @@
 # mogi
-hello github
+hello github 2
